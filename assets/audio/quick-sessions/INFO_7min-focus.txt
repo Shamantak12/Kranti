@@ -1,0 +1,21 @@
+# Audio File: 7min-focus.mp3
+# Category: Quick stress relief sessions
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 7 minutes
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "focus concentration meditation"
+3. Rename to: 7min-focus.mp3
+4. Place in: assets/audio/quick-sessions/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=focus%20concentration%20meditation
+- Pixabay: https://pixabay.com/music/search/focus%20concentration%20meditation/
+
+Once you add this file, the app will automatically use it!

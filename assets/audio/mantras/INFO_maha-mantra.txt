@@ -1,0 +1,21 @@
+# Audio File: maha-mantra.mp3
+# Category: Sanskrit mantra chanting
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 5-15 minutes
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "maha mantra"
+3. Rename to: maha-mantra.mp3
+4. Place in: assets/audio/mantras/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=maha%20mantra
+- Pixabay: https://pixabay.com/music/search/maha%20mantra/
+
+Once you add this file, the app will automatically use it!

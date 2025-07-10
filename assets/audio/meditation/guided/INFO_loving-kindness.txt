@@ -1,0 +1,21 @@
+# Audio File: loving-kindness.mp3
+# Category: Guided meditation sessions
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 5-15 minutes
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "loving kindness"
+3. Rename to: loving-kindness.mp3
+4. Place in: assets/audio/meditation/guided/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=loving%20kindness
+- Pixabay: https://pixabay.com/music/search/loving%20kindness/
+
+Once you add this file, the app will automatically use it!

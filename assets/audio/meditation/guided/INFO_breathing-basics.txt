@@ -1,0 +1,21 @@
+# Audio File: breathing-basics.mp3
+# Category: Guided meditation sessions
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 5-15 minutes
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "guided breathing meditation"
+3. Rename to: breathing-basics.mp3
+4. Place in: assets/audio/meditation/guided/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=guided%20breathing%20meditation
+- Pixabay: https://pixabay.com/music/search/guided%20breathing%20meditation/
+
+Once you add this file, the app will automatically use it!

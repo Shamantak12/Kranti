@@ -1,0 +1,21 @@
+# Audio File: 5min-energy.mp3
+# Category: Quick stress relief sessions
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 5 minutes
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "energy boost meditation"
+3. Rename to: 5min-energy.mp3
+4. Place in: assets/audio/quick-sessions/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=energy%20boost%20meditation
+- Pixabay: https://pixabay.com/music/search/energy%20boost%20meditation/
+
+Once you add this file, the app will automatically use it!

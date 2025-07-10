@@ -1,0 +1,21 @@
+# Audio File: gayatri-mantra.mp3
+# Category: Sanskrit mantra chanting
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 5-15 minutes
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "gayatri mantra sanskrit chanting"
+3. Rename to: gayatri-mantra.mp3
+4. Place in: assets/audio/mantras/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=gayatri%20mantra%20sanskrit%20chanting
+- Pixabay: https://pixabay.com/music/search/gayatri%20mantra%20sanskrit%20chanting/
+
+Once you add this file, the app will automatically use it!

@@ -1,0 +1,21 @@
+# Audio File: morning-raga.mp3
+# Category: Background ambient music
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 10+ minutes (looping)
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "indian classical morning raga sitar"
+3. Rename to: morning-raga.mp3
+4. Place in: assets/audio/ambient/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=indian%20classical%20morning%20raga%20sitar
+- Pixabay: https://pixabay.com/music/search/indian%20classical%20morning%20raga%20sitar/
+
+Once you add this file, the app will automatically use it!

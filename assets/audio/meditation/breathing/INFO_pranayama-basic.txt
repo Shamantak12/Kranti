@@ -1,0 +1,21 @@
+# Audio File: pranayama-basic.mp3
+# Category: Breathing exercise guides
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 5-15 minutes
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "pranayama breathing yoga"
+3. Rename to: pranayama-basic.mp3
+4. Place in: assets/audio/meditation/breathing/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=pranayama%20breathing%20yoga
+- Pixabay: https://pixabay.com/music/search/pranayama%20breathing%20yoga/
+
+Once you add this file, the app will automatically use it!

@@ -1,0 +1,21 @@
+# Audio File: temple-bells.mp3
+# Category: Background ambient music
+# Status: NEEDED - Replace this file with actual audio
+
+## Specifications:
+- Format: MP3
+- Bitrate: 128kbps
+- Duration: 20+ minutes (looping)
+- Volume: Normalized to -18dB
+
+## Where to get this file:
+1. Download from: freesound.org, pixabay.com, YouTube Audio Library
+2. Search for: "temple bells meditation india"
+3. Rename to: temple-bells.mp3
+4. Place in: assets/audio/ambient/
+
+## Quick Download Links:
+- Freesound: https://freesound.org/search/?q=temple%20bells%20meditation%20india
+- Pixabay: https://pixabay.com/music/search/temple%20bells%20meditation%20india/
+
+Once you add this file, the app will automatically use it!
